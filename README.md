@@ -8,7 +8,7 @@ It actively monitors database logs, captures queries that exceed a time threshol
 
 Below is a brief demonstration of the AI Database Profiler in action, from detecting a slow query to displaying the AI-powered recommendation.
 
-[![Project Demo]()
+[![Project Demo](https://github.com/Ronitb26/Database-Profiler/blob/main/Demo.gif)
 
 ---
 
@@ -140,3 +140,4 @@ This will start the orchestrator, which begins watching the log files.
 **Finally, open the `index.html` file in your web browser.**
 
 Now, run slow queries on your target PostgreSQL database and watch them appear in the dashboard for analysis!
+
